@@ -29,7 +29,8 @@ public class Ejercicio02 {
 			System.out.println(n+n);
 			
 			
-			}
+			}else
+                            system.out.print(fin);
 		}
 		
 		
