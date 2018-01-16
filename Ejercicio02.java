@@ -30,7 +30,7 @@ public class Ejercicio02 {
 			
 			
 			}else
-                            system.out.print(fin);
+                            System.out.print("fin");
 		}
 		
 		
